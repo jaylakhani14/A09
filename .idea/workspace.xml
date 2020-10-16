@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a833b9-ae89-44d1-96d2-6b16a1961d26" name="Default Changelist" comment="" />
+    <list default="true" id="f6b5aa8d-a0d3-48d1-9bed-235f32c69d28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1iwWdBnphSiwXCyKYbiWzeU4rpZ" />
+  <component name="ProjectId" id="1iwXogWbwZ4LN2GEyd3zpjIc1Ct" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,12 +34,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0a833b9-ae89-44d1-96d2-6b16a1961d26" name="Default Changelist" comment="" />
-      <created>1602819219610</created>
+      <changelist id="f6b5aa8d-a0d3-48d1-9bed-235f32c69d28" name="Default Changelist" comment="" />
+      <created>1602819805110</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602819219610</updated>
-      <workItem from="1602819220683" duration="37000" />
+      <updated>1602819805110</updated>
+      <workItem from="1602819806147" duration="232000" />
+      <workItem from="1602820082044" duration="17000" />
     </task>
     <servers />
   </component>
